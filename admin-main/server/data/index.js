@@ -1,0 +1,53 @@
+export const dataUser = [
+  {
+    name: "Konstantine",
+    email: "kranstead0@narod.ru",
+    password: "omMDCh",
+    phoneNumber: "8346315874",
+    role: "superadmin",
+  },
+  {
+    name: "Marilyn",
+    email: "mdonlon1@hostgator.com",
+    password: "XRYBnKAfm",
+    phoneNumber: "9981906117",
+    role: "user",
+  },
+  {
+    name: "Olly",
+    email: "oveneur2@marketwatch.com",
+    password: "WwDjOlH",
+    phoneNumber: "3868813669",
+    role: "admin",
+  },
+  {
+    name: "Donielle",
+    email: "djeannin27@ebay.co.uk",
+    password: "k88MiJtJ",
+    country: "MG",
+    phoneNumber: "1939969138",
+    role: "admin",
+  },
+  {
+    name: "Georgianne",
+    email: "gcoulbeck89@printfriendly.com",
+    password: "PJyCrk",
+    phoneNumber: "5043493141",
+    role: "user",
+  },
+  {
+    name: "Xerxes",
+    email: "xdreinan8a@wix.com",
+    password: "x93O2ercDrLG",
+    phoneNumber: "7076130812",
+    role: "superadmin",
+  },
+  {
+    name: "Karlie",
+    email: "ksorby8b@altervista.org",
+    password: "yiMyjbHk",
+    state: null,
+    phoneNumber: "1371356593",
+    role: "admin",
+  },
+];
